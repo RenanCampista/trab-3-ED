@@ -1,3 +1,12 @@
+entradas
+large
+medium
+small
+saida.txt
+search_engine
+build_index
+.vscode
+
 # Prerequisites
 *.d
 
